@@ -19,3 +19,6 @@ purpose: The purpose of the loan (takes values "credit_card", "debt_consolidatio
 - inq.last.6mths: The borrower's number of inquiries by creditors in the last 6 months.
 - delinq.2yrs: The number of times the borrower had been 30+ days past due on a payment in the past 2 years.
 - pub.rec: The borrower's number of derogatory public records (bankruptcy filings, tax liens, or judgments).
+
+
+### [View Report](https://htmlpreview.github.io/?https://github.com/chaitanya6761/Machine-Learning-Mini-Projects/blob/master/Lending.com%20Classifier/Lending.com%20Classifier.html).
