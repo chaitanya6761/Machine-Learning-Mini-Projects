@@ -12,3 +12,5 @@ The "cool" column is the number of "cool" votes this review received from other 
 All reviews start with 0 "cool" votes, and there is no limit to how many "cool" votes a review can receive. In other words, it is a rating of the review itself, not a rating of the business.
 
 The "useful" and "funny" columns are similar to the "cool" column.
+
+### [View Report](https://htmlpreview.github.io/?https://github.com/chaitanya6761/Machine-Learning-Mini-Projects/blob/master/Yelp%20Review%20Classifier/Yelp%20Review%20Classifier.html).
